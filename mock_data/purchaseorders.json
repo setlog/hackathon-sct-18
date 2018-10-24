@@ -1,0 +1,17 @@
+[
+    {
+        "file": "trousers-001.pdf",
+        "eta": "2019-02-28",
+        "supplier": "FancySupplierTrousers"
+    },
+    {
+        "file": "shirts-002.pdf",
+        "eta": "2019-03-05",
+        "supplier": "FancySupplierShirts"
+    },
+    {
+        "file": "socks-003.pdf",
+        "eta": "2019-03-28",
+        "supplier": "FancySupplierSocks"
+    }
+]

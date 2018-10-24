@@ -1,0 +1,50 @@
+[
+    {
+        "mode_of_transportation": "SEA",
+        "transportation_type": "STAGE",
+        "customer": "TrousersBrand",
+        "origin": "CHSHN",
+        "via": null,
+        "destination": "DEHAM",
+        "etd": "2019-01-15",
+        "eta": "2019-02-13",
+        "tracking_code": "fd5034d0-7d32-4f70-8d52-7b35be8feeab",
+        "purchase_order": {
+            "file": "trousers-001.pdf",
+            "eta": "2019-02-28",
+            "supplier": "FancySupplierTrousers"
+        }
+    },
+    {
+        "mode_of_transportation": "SEA",
+        "transportation_type": "STAGE",
+        "customer": "ShirtsBrand",
+        "origin": "HKHKG",
+        "via": null,
+        "destination": "DEHAM",
+        "etd": "2019-01-30",
+        "eta": "2019-02-25",
+        "tracking_code": "14e057c7-7289-439c-ba67-48bbf6e5ff07",
+        "purchase_order": {
+            "file": "shirts-002.pdf",
+            "eta": "2019-03-05",
+            "supplier": "FancySupplierShirts"
+        }
+    },
+    {
+        "mode_of_transportation": "TRUCK",
+        "transportation_type": "STAGE",
+        "customer": "SocksBrand",
+        "origin": "TRIST",
+        "via": null,
+        "destination": "DEHEN",
+        "etd": "2019-03-11",
+        "eta": "2019-03-18",
+        "tracking_code": "3e291e8f-88bd-4ec0-94f2-f0ccccfbed00",
+        "purchase_order": {
+            "file": "socks-003.pdf",
+            "eta": "2019-03-28",
+            "supplier": "FancySupplierSocks"
+        }
+    }
+]
