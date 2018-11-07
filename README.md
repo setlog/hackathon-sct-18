@@ -1,7 +1,5 @@
 # N3xtcoder Hackathon SCT-18
 
-[Setlog Logo]
-
 Presented by [Setlog](https://www.setlog.com/), [Limbiq](https://www.limbiq.com/) for the [N3xtcoders](https://n3xtcoder.org) 2018 hackathon.
 
 ## Challenge 2: Code prototype for Limbiq dashboard
