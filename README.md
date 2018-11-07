@@ -23,4 +23,4 @@ Suggested technologies:
 
 
 You can add a link to your project here, just create a PR or open an issue:
-  * (here)
+  * [repository used during the hackathon](https://github.com/harihar/limbiq-hackathon)
