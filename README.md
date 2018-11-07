@@ -22,5 +22,5 @@ Suggested technologies:
   * Any other modern app framework…
 
 
-You can add a link to your project here, just create a PR or open an issue:
+## The prototypes
   * [repository used during the hackathon](https://github.com/harihar/limbiq-hackathon)
